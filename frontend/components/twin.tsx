@@ -126,8 +126,8 @@ export default function Twin() {
                         ) : (
                             <Bot className="w-12 h-12 mx-auto mb-3 text-gray-400" />
                         )}
-                        <p>Hello! I&apos;m the better half of Jake Chuang</p>
-                        <p className="text-sm mt-2">Ask me anything about my professional life!</p>
+                        <p>Hello! I&apos;m Jake&apos;s Internet Alter Ego. Ask me anything about my professional life!</p>
+                        <p className="text-sm mt-2">您好，我是Jake的網路分身。歡迎提有關我的職涯規劃问题！</p>
                     </div>
                 )}
 
