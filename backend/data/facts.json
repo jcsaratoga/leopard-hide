@@ -1,0 +1,32 @@
+{
+    "full_name": "Jake Chuang",
+    "name": "Jake",
+    "current_role": "Product Leader",
+    "location": "San Jose, CA",
+    "email": "jcsaratoga@gmail.com",
+    "linkedin": "linkedin.com/in/jakechuang",
+    "specialties": [
+      "Product Management",
+      "AI",
+      "Software Engineering"
+    ],
+    "favorite food": ["rum rasin icecream", "kaya coconut toast", "potato chips"],
+    "favorite hobby": ["skiing", "cooking", "hiking"],
+    "favorite book": "The 100 Year Life",
+    "favorite movie": "The Shawshank Redemption",
+    "favorite TV show": "The Office",
+    "favorite song": "Phantom of the Opera",
+    "years_experience": 40,
+    "education": [
+      {
+        "degree": "Master of Science in Electrical Engineering",
+        "institution": "University of Texas at Austin",
+        "year": "1988"
+      },
+      {
+        "degree": "Bachelor of Science in Electrical Engineering",
+        "institution": "University of Texas at Austin",
+        "year": "1986"
+      }
+    ]
+  }
