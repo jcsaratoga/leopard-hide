@@ -17,7 +17,7 @@ export default function Home() {
           </div>
 
           <footer className="mt-8 text-center text-sm text-gray-500">
-            <p>Jake's Better Half</p>
+            <p>MyBetter Half</p>
           </footer>
         </div>
       </div>
